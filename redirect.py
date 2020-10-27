@@ -5,7 +5,7 @@ import logging
 from google.appengine.ext import webapp
 from google.appengine.ext.webapp.util import run_wsgi_app
 
-DOMAIN = "https://igrovie-avtomati-besplatno.appspot.com"
+DOMAIN = "https://aparattov-net.appspot.com"
 
 class AllHandler(webapp.RequestHandler):
     def get(self):
