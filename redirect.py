@@ -5,7 +5,7 @@ import logging
 from google.appengine.ext import webapp
 from google.appengine.ext.webapp.util import run_wsgi_app
 
-DOMAIN = "https://apparatov.azurewebsites.net"
+DOMAIN = "https://aparatov-net.cf"
 
 class AllHandler(webapp.RequestHandler):
     def get(self):

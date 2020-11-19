@@ -1,3 +1,3 @@
 User-agent: *
 
-Host: apparatov.azurewebsites.net
+Host: aparatov-net.cf
