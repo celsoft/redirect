@@ -5,7 +5,7 @@ import logging
 from google.appengine.ext import webapp
 from google.appengine.ext.webapp.util import run_wsgi_app
 
-DOMAIN = "https://joycasino-oficialniy-sayt.azurewebsites.net"ert
+DOMAIN = "https://joycasino-oficialniy-sayt.azurewebsites.net"
 
 class AllHandler(webapp.RequestHandler):
     def get(self):
